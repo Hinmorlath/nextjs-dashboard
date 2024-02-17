@@ -19,6 +19,6 @@ input[type='number']::-webkit-outer-spin-button {
 body{
   background: #0e0e0e;
 }
-p {
+p, h1, div {
   color: #aaa;
 }
